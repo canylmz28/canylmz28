@@ -1,4 +1,4 @@
-# Hi, I’m Can 👋
+# <center><p>Hi, I’m Can 👋</p></center>
 
 
 - 👀 I’m interested in Data Science, Machine Learning, Computer Vision.
